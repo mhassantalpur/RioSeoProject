@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RioSeoProject/static/css/main.9dcf5797.chunk.css",
+    "main.js": "/RioSeoProject/static/js/main.f449994b.chunk.js",
+    "main.js.map": "/RioSeoProject/static/js/main.f449994b.chunk.js.map",
+    "runtime-main.js": "/RioSeoProject/static/js/runtime-main.0a3c99f4.js",
+    "runtime-main.js.map": "/RioSeoProject/static/js/runtime-main.0a3c99f4.js.map",
+    "static/css/2.383c0125.chunk.css": "/RioSeoProject/static/css/2.383c0125.chunk.css",
+    "static/js/2.52b289d9.chunk.js": "/RioSeoProject/static/js/2.52b289d9.chunk.js",
+    "static/js/2.52b289d9.chunk.js.map": "/RioSeoProject/static/js/2.52b289d9.chunk.js.map",
+    "index.html": "/RioSeoProject/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/RioSeoProject/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.9dcf5797.chunk.css.map": "/RioSeoProject/static/css/main.9dcf5797.chunk.css.map",
+    "static/js/2.52b289d9.chunk.js.LICENSE.txt": "/RioSeoProject/static/js/2.52b289d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a3c99f4.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.52b289d9.chunk.js",
+    "static/css/main.9dcf5797.chunk.css",
+    "static/js/main.f449994b.chunk.js"
+  ]
+}
